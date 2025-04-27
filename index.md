@@ -1,6 +1,6 @@
 # Rommel Del Fierro's Portfolio
 
-* *I am a Statistics major looking to graduate in 2029*
+I am a Statistics major looking to graduate in 2029
 
 ## My favorite CPSC 120L Labs
 
