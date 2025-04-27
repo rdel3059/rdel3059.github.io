@@ -2,7 +2,7 @@
 
 I am a Statistics major hoping to graduate in 2029
 
-My favorite CPSC 120L Labs
+##My favorite CPSC 120L Labs
 
 Lab 6: Blackjack Hand Calculator
 Lab 6 was neat because it helped me connect one of my hobbies, playing cards, with programming. I built a Blackjack hand calculator using modular functions and conditional logic to handle scenarios like Ace bonuses. This project sparked my curiosity about applying code to real-world systems, which continued in the next lab with parking regulations.
