@@ -2,6 +2,8 @@
 
 I am a Statistics major looking to graduate in 2028. 
 
+My GitHub Pages site is [rdel3059.github.io](https://rdel3059.github.io/).
+
 ## My favorite CPSC 120L Labs
 
 * **Lab 6: Blackjack Hand Calculator**
