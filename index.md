@@ -12,6 +12,8 @@ My GitHub profile is [github.com/rdel3059](https://github.com/rdel3059).
     I built a Blackjack hand calculator that scored hands using modular functions like IsAce, CardPoints, and TwoCardHandScore. 
     It reinforced input validation and conditional logic for handling special cases like the Ace bonus, making me appreciate how games I enjoy can be modeled through code.
 
+![Blackjack Scene](https://rdel3059.github.io/blackjack.gif)
+
 * **Lab 7: Parking Rules**
 
     Lab 7 expanded my skills by teaching me how to model real-world rules, like street parking restrictions, through input validation and logical conditions. 
